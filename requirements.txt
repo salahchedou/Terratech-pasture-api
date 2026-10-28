@@ -1,0 +1,7 @@
+rasterio
+xarray
+rioxarray
+geopandas
+shapely
+lightgbm
+pystac-client
