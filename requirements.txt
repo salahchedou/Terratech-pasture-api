@@ -3,5 +3,9 @@ xarray
 rioxarray
 geopandas
 shapely
+numpy
+pandas
+scikit-learn
 lightgbm
 pystac-client
+pytest
